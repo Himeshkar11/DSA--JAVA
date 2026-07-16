@@ -1,0 +1,18 @@
+public class q14 {
+    static int diagonalSum(int[][] mat) {
+        int sum = 0;
+        int n = mat.length;
+
+        for (int i = 0; i < n; i++) {
+            sum += mat[i][i]; // primary diagonal
+            sum += mat[i][n - 1 - i]; // secondary diagonal
+        }
+
+        // remove center element if matrix size is odd
+        if (n % 2 == 1) {
+            sum -= mat[n / 2][n / 2];
+        }
+
+        return sum;
+    }
+}
