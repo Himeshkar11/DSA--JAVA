@@ -8,7 +8,7 @@
   <a href="https://github.com/Himeshkar11">
     <img src="https://img.shields.io/badge/GitHub-Himeshkar11-181717?style=for-the-badge&logo=github">
   </a>
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
+  <a href="https://leetcode.com/u/himeshkar11/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
   </a>
   <img src="https://img.shields.io/badge/Language-Java-red?style=for-the-badge&logo=openjdk">
